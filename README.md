@@ -1,7 +1,7 @@
 # My Backup Strategy
 
 <!-- put some badge here -->
-![Static Badge](https://img.shields.io/badge/ansible-vX.Y.Z-red)
+![Static Badge](https://img.shields.io/badge/ansible-2.14.3-red)
 <!-- ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/blackcats/my-backup-strategy/toto.yml?logo=GitHub) -->
 
 This is the main part of my backup strategy [project](https://github.com/users/blackcats/projects/5/views/3).
@@ -56,7 +56,8 @@ Ok, that's well and dandy but how I will set up this darn project?
 
 First I created an AWS S3 bucket to archive my datas. You can see how I set it 
 up [here](https://github.com/blackcats/my_freezed_storage). After that...
-I'm stil thinking about how I'm going to proceed...
+
+Hum... I'm stil thinking about how I'm going to proceed...
 
 <!-- ## Get Started -->
 <!-- if used, this section contain the "Installation" and "Usage" section -->
